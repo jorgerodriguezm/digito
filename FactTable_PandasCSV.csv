@@ -1,0 +1,21 @@
+﻿IdVenta,Cliente,Rubro,Distrito,Ciudad,Servicio,Fecha,Subtotal,IGV,Total
+1,Delosi,Restaurantes,San Isidro,Lima,Aplicacion Movil,2/12/2020,5000,900,5900
+2,KFC,Restaurantes,Cercado de Lima,Lima,Aplicacion Movil,1/10/2020,5000,900,5900
+3,Starbucks Coffee,Restaurantes,Miraflores,Lima,Aplicacion Movil,5/11/2020,5000,900,5900
+4,Pizza Hut,Restaurante,Miraflores,Lima,Aplicacion Web y Movil,12/12/2020,9500,1710,11210
+5,KFC,Restaurantes,Cercado de Lima,Lima,Aplicacion Web,4/8/2020,4800,864,5664
+6,Talento Humano Peru,Consultoria,La Molina,Lima,Aplicacion Movil,10/3/2020,5000,900,5900
+7,Lucky,Marketing y Publicidad,Miraflores,Lima,Aplicacion Web,10/4/2020,4800,864,5664
+8,Toulouse Lautrec,Educacion,Santiago de Surco,Lima,Sistema de Clientes,4/8/2020,12000,2160,14160
+9,Stoller Peru,Agricultura,Magadalena,Lima,Aplicacion Web y Movil,5/11/2020,9500,1710,11210
+10,Mercator Peru,Logistica,San Miguel,Lima,Ingeniero de Datos,1/10/2020,2400,432,2832
+11,Stoller Colombia,Agricultura,Zipaquira,Cundinamarca,Aplicacion Web,1/10/2020,4800,864,5664
+12,Talento Humano Peru,Consultoria,La Molina,Lima,Aplicacion Movil,2/12/2020,5000,900,5900
+13,Noah Logistica,Losgitica,Callao,Callao,Sistema de Clientes,10/3/2020,12000,2160,14160
+14,AFP Integra,Fondo de Pensiones,Lima,Lima,Aplicacion Web y Movil,10/4/2020,9500,1710,11210
+15,Cibertec,Educacion,San Isidro,Lima,Aplicacion Movil,11/3/2020,5000,900,5900
+16,Sodexo,Infraestructura,Barranco,Lima,Herramientas Digitales,12/3/2020,1000,180,1180
+17,Clínica Internacional,Salud,Magdalena,Lima,Sistema de Clientes,6/12/2020,12000,2160,14160
+18,Talento Humano Peru,Consultoria,La Molina,Lima,Ingeniero de Datos,7/5/2020,2400,432,2832
+19,Quorum,Marketing y Publicidad,Miraflores,Lima,Ingeniero de Datos,2/10/2020,2400,432,2832
+20,Calandria,Medios,Magadalena,Lima,Herramientas Digitales,6/10/2020,1000,180,1180
