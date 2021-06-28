@@ -1,0 +1,21 @@
+﻿Cliente,Rubro,Distrito,Ciudad,Servicio,Fecha,Mes,Subtotal,IGV,Total
+KFC,Restaurantes,Cercado de Lima,Lima,Aplicacion Movil,1/10/2020,January,5000,900,5900
+Mercator Peru,Logistica,San Miguel,Lima,Ingeniero de Datos,1/10/2020,January,2400,432,2832
+Stoller Colombia,Agricultura,Zipaquira,Cundinamarca,Aplicacion Web,1/10/2020,January,4800,864,5664
+Quorum,Marketing y Publicidad,Miraflores,Lima,Ingeniero de Datos,2/10/2020,February,2400,432,2832
+Delosi,Restaurantes,San Isidro,Lima,Aplicacion Movil,2/12/2020,February,5000,900,5900
+Talento Humano Peru,Consultoria,La Molina,Lima,Aplicacion Movil,2/12/2020,February,5000,900,5900
+KFC,Restaurantes,Cercado de Lima,Lima,Aplicacion Web,4/8/2020,April,4800,864,5664
+Toulouse Lautrec,Educacion,Santiago de Surco,Lima,Sistema de Clientes,4/8/2020,April,12000,2160,14160
+Starbucks Coffee,Restaurantes,Miraflores,Lima,Aplicacion Movil,5/11/2020,May,5000,900,5900
+Stoller Peru,Agricultura,Magadalena,Lima,Aplicacion Web y Movil,5/11/2020,May,9500,1710,11210
+Calandria,Medios,Magadalena,Lima,Herramientas Digitales,6/10/2020,June,1000,180,1180
+Clínica Internacional,Salud,Magdalena,Lima,Sistema de Clientes,6/12/2020,June,12000,2160,14160
+Talento Humano Peru,Consultoria,La Molina,Lima,Ingeniero de Datos,7/5/2020,July,2400,432,2832
+Talento Humano Peru,Consultoria,La Molina,Lima,Aplicacion Movil,10/3/2020,October,5000,900,5900
+Noah Logistica,Losgitica,Callao,Callao,Sistema de Clientes,10/3/2020,October,12000,2160,14160
+Lucky,Marketing y Publicidad,Miraflores,Lima,Aplicacion Web,10/4/2020,October,4800,864,5664
+AFP Integra,Fondo de Pensiones,Lima,Lima,Aplicacion Web y Movil,10/4/2020,October,9500,1710,11210
+Cibertec,Educacion,San Isidro,Lima,Aplicacion Movil,11/3/2020,November,5000,900,5900
+Sodexo,Infraestructura,Barranco,Lima,Herramientas Digitales,12/3/2020,December,1000,180,1180
+Pizza Hut,Restaurantes,Miraflores,Lima,Aplicacion Web y Movil,12/12/2020,December,9500,1710,11210
